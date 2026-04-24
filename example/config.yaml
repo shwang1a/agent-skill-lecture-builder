@@ -1,0 +1,20 @@
+page:
+  title: "用 Vibe Coding 打造可重複使用的 Agent Skill"
+  badge: "Agent Skills · Vibe Coding · Markdown Workflow"
+  hero_title: "用 Vibe Coding 打造<br>可重複使用的 Agent Skill"
+  subtitle: "從終端機安裝 Codex、生成第一版講義網站，到把 Markdown 模板與 build 流程封裝成長期可維護的工作流。"
+
+quotes:
+  opening:
+    text: "AI 幫你快速做出第一版很重要，<br>但真正能放大價值的，是你能不能把成果留下來。"
+  closing:
+    text: >
+      當內容維護從 HTML 拉回 Markdown，<br>
+      再把流程封裝成可重複使用的 Skill，<br>
+      Vibe Coding 才會從一次性的驚喜，變成長期可複用的生產力系統。
+
+seo:
+  title: "用 Vibe Coding 打造可重複使用的 Agent Skill"
+  description: "從 Codex 安裝、講義網站生成、Markdown 模板化，到 Agent Skill 封裝，完整整理一套可長期維護的 AI 講義工作流。"
+  image: "https://shwang1a.github.io/agent-skill-lecture-builder/example/assets/og-image.jpg"
+  url: "https://shwang1a.github.io/agent-skill-lecture-builder/example/"

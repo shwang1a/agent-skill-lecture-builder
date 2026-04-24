@@ -1,0 +1,20 @@
+page:
+  title: "生成式 AI 資訊安全"
+  badge: "Cybersecurity · GenAI Governance · Enterprise Training"
+  hero_title: "生成式 AI 資訊安全<br>從真實事故看懂風險與防線"
+  subtitle: "用企業最常發生的資料外洩、提示注入、深偽詐騙與供應商風險案例，建立可落地的生成式 AI 安全治理框架。"
+
+quotes:
+  opening:
+    text: "生成式 AI 最大的風險，通常不是模型太笨，<br>而是組織把它接進真實流程時，沒有先定義邊界。"
+  closing:
+    text: >
+      真正成熟的 AI 安全，不是禁止使用工具，<br>
+      而是讓每一次使用都有清楚的資料分級、權限控管與人工覆核。<br><br>
+      當風險被設計進流程，AI 才會成為效率工具，而不是新的事故來源。
+
+seo:
+  title: "生成式 AI 資訊安全｜從真實案例建立企業防線"
+  description: "以實際事故解析生成式 AI 的資料外洩、提示注入、深偽詐騙與治理重點，適合企業內訓與安全意識課程。"
+  image: "https://shwang1a.github.io/agent-skill-lecture-builder/generative-ai-security/assets/og-image.jpg"
+  url: "https://shwang1a.github.io/agent-skill-lecture-builder/generative-ai-security/"
