@@ -3,6 +3,9 @@
 > [!NOTE]
 > 📺 **搭配影片觀看效果更佳** — [YouTube 完整教學](https://youtu.be/0pZri5f_tfk)
 
+> [!NOTE]
+> **原始專案**：[https://github.com/deancourse/agent-skill-lecture-builder](https://github.com/deancourse/agent-skill-lecture-builder)
+
 ❝Vibe Coding 速度很快，但用完就丟的東西，永遠不會變成你的！❞
 
 這句話，是我用 Vibe Coding 做了幾十個網頁後的感悟。
